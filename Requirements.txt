@@ -1,0 +1,9 @@
+# mention all the important libraries used in the project
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+ipykernel
+openpyxl
